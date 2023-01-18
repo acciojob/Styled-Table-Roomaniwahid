@@ -11,3 +11,7 @@ th, td {
 th {
   background-color: lightblue;
 }
+tr:nth child(odd)
+{
+	background-color:deeppink;
+}
